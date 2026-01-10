@@ -1,0 +1,1 @@
+print("AsslamoAllaikum Bhaiyoo, Kia haal chaal, kaise hain sb log?")
