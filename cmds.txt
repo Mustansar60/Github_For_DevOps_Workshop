@@ -65,4 +65,4 @@ git pull origin <branch name>
 Check you git commits and logs
 
 git log
-Happy Learning!
+Happy Learning dosto!
